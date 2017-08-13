@@ -2,7 +2,7 @@ INTRODUCTION
 ===========
 
 
-The images within this repository is the work of Vanessa Kelly and remains the interlectial content of Jalapeno Creative P/L.
+The images within this repository is the work of Vanessa Kelly and remains the interlectual content of Jalapeno Creative P/L.
 
 You may copy the work under the conditions of the Apache General Licence (2004) included with this repository and seek permission to do so from
 
